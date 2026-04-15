@@ -1,0 +1,11 @@
+# 窗口配置
+WINDOW_WIDTH = 1000
+WINDOW_HEIGHT = 700
+LEFT_PANEL_WIDTH = 350
+
+# Live2D 配置
+ZOOM_FACTOR = 0.5
+MODEL_PATH = "v3/Mao/Mao.model3.json"
+
+# AI 配置
+MAX_HISTORY = 20
